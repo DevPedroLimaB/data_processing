@@ -1,4 +1,0 @@
-"id","nota_fiscal_id","auditor_id","data_auditoria","status","observacoes"
-1,1,1,"2025-02-01","aprovada","Todos os valores corretos"
-2,2,2,"2025-02-05","pendente","Verificar cálculo do ICMS"
-3,3,1,"2025-02-10","reprovada","Documento incompleto"
